@@ -7,7 +7,7 @@
     <artifactId>microservice-spring-cloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
-        <module>microservice-consume-rmovie</module>
+        <module>microservice-consumer-movie</module>
         <module>microservice-provider-user</module>
         <module>microservice-discovery-eureka</module>
     </modules>
